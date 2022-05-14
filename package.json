@@ -10,7 +10,8 @@
   "dependencies": {
     "@headlessui/react": "^1.6.1",
     "react": "^18.0.0",
-    "react-dom": "^18.0.0"
+    "react-dom": "^18.0.0",
+    "react-scroll-motion": "^0.2.6"
   },
   "devDependencies": {
     "@types/react": "^18.0.0",
